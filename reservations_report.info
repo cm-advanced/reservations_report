@@ -4,6 +4,6 @@ description = "Helper functions for reservation reports"
 project = reservations_report
 project_status_url = https://github.com/cm-advanced/reservations_report
 core = 7.x
-version = 7.x-1.2
+version = 7.x-1.3
 
 dependencies[] = reservations
